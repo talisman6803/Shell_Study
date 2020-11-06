@@ -14,7 +14,7 @@
 
 -------------------
 #### Day01
-``cd``, ``mkdir``, ``ls``, ``.sh file complie``
+``cd``, ``mkdir``, ``ls``, ``run .sh file``
 
 #### Day02
 ``chmod``, ``basic git command``, ``rm``
